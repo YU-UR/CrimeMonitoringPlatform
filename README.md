@@ -61,11 +61,8 @@
 
 ### MySQL 数据表
 
-> 此处插入数据库表结构或数据库数据截图。
-
 ```markdown
-![数据库表展示](<img width="426" height="211" alt="image" src="https://github.com/user-attachments/assets/45a3f3a3-caf7-40b6-9df2-b9e574ee41aa" />
-)
+![数据库表展示](static/img/database.png)
 ```
 
 ## 核心功能
@@ -105,11 +102,8 @@
 
 ### 大屏效果
 
-> 此处插入项目最终运行效果截图。
-
 ```markdown
-![犯罪数据分析可视化大屏](<img width="461" height="247" alt="image" src="https://github.com/user-attachments/assets/68df153f-5a94-4321-a311-2c451e6f860f" />
-)
+![犯罪数据分析可视化大屏](./static/img/dashboard.png)
 ```
 
 ## 项目效果
